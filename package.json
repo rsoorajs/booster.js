@@ -26,7 +26,7 @@
   },
   "homepage": "https://booster.js.org",
   "devDependencies": {
-    "@cloudflare/workers-types": "^2.2.1",
+    "@cloudflare/workers-types": "^3.18.0",
     "@typescript-eslint/eslint-plugin": "^4.22.0",
     "@typescript-eslint/parser": "^4.22.0",
     "clean-webpack-plugin": "*",
